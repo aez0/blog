@@ -1,0 +1,25 @@
+<html>
+ <head>
+  <title>Aezlo's Blog</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/w3.css">
+ </header>
+  <header>
+   <img src="/assets/Header.png" alt="Aezlo_Blog_Header">
+  </header>
+  <div class="w3-bar w3-light-grey">
+  <a href="/" class="w3-bar-item w3-button">Home</a>
+  <a href="/about" class="w3-bar-item w3-button">About</a>
+  <div class="w3-dropdown-hover">
+    <button class="w3-button">Posts</button>
+    <div class="w3-dropdown-content w3-bar-block w3-card-4">
+      <a href="/blog/what-is-aezlo" class="w3-bar-item w3-button">What is Aezlo?</a>
+      <a href="/blog/references" class="w3-bar-item w3-button">References</a>
+      <a href="/blog/map" class="w3-bar-item w3-button">Aezlo Map/a>
+    </div>
+  </div>
+</div>
